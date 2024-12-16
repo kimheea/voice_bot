@@ -87,7 +87,6 @@ protobuf==5.29.1
 psutil==6.1.0
 pure_eval==0.2.3
 pyarrow==18.1.0
-PyAudio==0.2.14
 pycparser==2.22
 pydantic==2.10.3
 pydantic_core==2.27.1
@@ -99,7 +98,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-json-logger==3.2.0
 pytz==2024.2
-pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
 referencing==0.35.1
